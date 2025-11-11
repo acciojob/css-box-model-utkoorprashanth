@@ -1,7 +1,7 @@
 div {
 			width: 300px;
 			background-color: lightblue;
-			border: 15px;
+			border: 15px solid blue rgb(0,0,255);
 			padding: 50px;
 			margin: 20px;
 		}
